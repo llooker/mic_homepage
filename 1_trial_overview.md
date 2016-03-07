@@ -17,11 +17,11 @@
   </tr>
   <tr>
     <td style="font-weight:800;padding-top:15px;color:#76678b;border:none;padding-left:0px;">Trial Start Date</td>
-    <td style="font-weight:500;padding-top:15px;color:#76678b;border:none">TBD</td> 
+    <td style="font-weight:500;padding-top:15px;color:#76678b;border:none">3/4/2016</td> 
   </tr>
   <tr>
     <td style="font-weight:800;padding-top:15px;color:#76678b;border:none;padding-left:0px;">Trial End Date</td>
-    <td style="font-weight:500;padding-top:15px;color:#76678b;border:none">TBD</td> 
+    <td style="font-weight:500;padding-top:15px;color:#76678b;border:none">3/25/3016</td> 
   </tr>
 </table>
 </div>
